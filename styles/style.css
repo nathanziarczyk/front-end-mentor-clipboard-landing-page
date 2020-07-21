@@ -317,6 +317,8 @@ footer {
         fill: var(--main-cyan); }
       footer .footer .social-buttons a path {
         transition: fill 400ms ease; }
+  footer .attribution {
+    padding-bottom: 1rem; }
 
 @media screen and (max-width: 700px) {
   footer .footer {
